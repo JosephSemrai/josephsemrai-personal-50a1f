@@ -1,5 +1,5 @@
 - profile: null
-  initials: JD
+  initials: JS
   name: Joseph Semrai
   email: john.doe@change.me
   profession: Web Developer
@@ -10,16 +10,11 @@
   for_hire: false
   focus: Learning Gatsby
   focus_url: 'https://gatsbyjs.org'
-  about: >
-    Bring to the table win-win survival strategies to ensure proactive
-    domination. At the end of the day, going forward, a new normal that has
-    evolved from generation X is on the runway heading towards a streamlined
-    cloud solution.
-
-
-    User generated content in real-time will have multiple touchpoints for
-    offshoring. Keeping your eye on the ball while performing a deep dive on the
-    start-up mentality to derive convergence on cross-platform integration.
+  about: >-
+    I’m a full-stack web developer (MERN preferred). I currently serve as the
+    founder at Semrai and co-founder/CTO at Folder. Beyond this, you might find
+    me working on various fun projects with the Sustainability Computing
+    Research Lab and the Helyx Initiative as for volunteer efforts.
   skills:
     - JavaScript
     - HTML / CSS
